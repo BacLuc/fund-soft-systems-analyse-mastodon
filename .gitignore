@@ -1,3 +1,4 @@
 .idea
 /.ipynb*
 /mastodon
+analysis_data.csv
