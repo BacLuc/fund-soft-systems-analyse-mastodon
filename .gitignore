@@ -1,4 +1,5 @@
 .idea
 /.ipynb*
+/changed_together.csv
 /mastodon
 /analysis_data.csv
